@@ -1459,14 +1459,37 @@
     "coverStyle": "background: linear-gradient(135deg, #020617 0%, #22d3ee 100%); color:#ecfeff;"
   },
   {
+  "title": "Internet Speed Tester",
+  "category": "utility",
+  "description": "Test your internet speed with this interactive tool.",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/internet-speed-tester/index.html",
+  "icon": "ri-palette-line",
+  "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;"
+},
+  {
+    "title": "SQL Query Visualizer",
+    "category": "utility",
+    "description": "Interactive visualizer for SQL joins using Set Theory diagrams.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS",
+      "Canvas"
+    ],
+    "link": "./projects/SQL_Query_Visualizer/index.html",
+    "icon": "ri-database-2-line",
+    "coverStyle": "background: linear-gradient(135deg, #1e293b 0%, #334155 100%); color: #3b82f6;"
+  },
+  {
   "title": "GitHub User Finder",
   "category": "utility",
   "description": "Search and explore GitHub user profiles with recent repositories in real time.",
   "tech": ["HTML", "CSS", "JavaScript", "GitHub API"],
   "link": "./projects/github-user-finder/index.html",
   "icon": "ri-github-fill",
-  "coverStyle": "background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); color: #ffffff;"
-  },
+  "coverClass": "background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); color: #ffffff;"
+  } ,
   {
     "title": "15 Sliding Puzzle",
     "category": "puzzle",
