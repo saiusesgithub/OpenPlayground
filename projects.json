@@ -2008,5 +2008,20 @@
     "link": "./projects/Instabiosuggestion/index.html",
     "icon": "ri-instagram-line",
     "coverStyle": "background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white;"
-  }
+  },
+  
+  {
+    "title": "Typing Heatmap",
+    "category": "utility",
+    "description": "Visualizes key press frequency on a virtual keyboard with dynamic heat colors.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/Typing_Heatmap/index.html",
+    "icon": "ri-fire-line",
+    "coverStyle": "background: linear-gradient(135deg, #eff6ff 0%, #3b82f6 100%); color: #1e3a8a;"
+   }
+  
 ]
