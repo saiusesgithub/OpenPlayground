@@ -1999,6 +1999,11 @@
       "link": "./projects/chemistryLab/index.html"
     },
     {
+      "folder": "ConstellationBuilder",
+      "path": "./projects/ConstellationBuilder/project.json",
+      "link": "./projects/ConstellationBuilder/index.html"
+    },
+    {
       "folder": "AsciiForge",
       "path": "./projects/AsciiForge/project.json",
       "link": "./projects/AsciiForge/index.html"
