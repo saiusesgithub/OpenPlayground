@@ -1943,5 +1943,15 @@
       "path": "./projects/Community Skill Exchange Platform/project.json",
       "link": "./projects/Community Skill Exchange Platform/index.html"
     }
+    {
+      "folder": "ToDoIst",
+      "path": "./projects/ToDoIst/project.json",
+      "link": "./projects/ToDoIst/index.html"
+    }
+    {
+      "folder": "Resumator",
+      "path": "./projects/Resumator/project.json",
+      "link": "./projects/Resumator/index.html"
+    }
   ]
 }
